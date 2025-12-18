@@ -90,4 +90,4 @@ Data flows from **App** down to child components via props.
 
 ## 🙌 Credits
 
-This project was developed as part of a **React Essentials** learning journey, with guidance and support from **NanLabs** and **Udemy**, and additional assistance from **ChatGPT**.
+This project was developed as part of a **React Essentials** learning journey, with guidance and support from **NanLabs** and **Udemy**.
